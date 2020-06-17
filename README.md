@@ -1,73 +1,38 @@
-# Project Name
+# Members Only Club
 
-> One paragraph statement about the project.
+> Create posts about non-members and only reveal the post author to members of the club!
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
+Post author only appears when the user is signed in. Users can create as many posts as they like.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+- Rails
+- Ruby,
+- Devise Gem
 
 ## Authors
 
-👤 **Author1**
+👤 **Azeem Ahmed**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@Azeem838](https://github.com/Azeem838)
 
-👤 **Author2**
+👤 Rajkumar Das
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@rajkumardas2701](https://github.com/rajkumardas2701)
+- Twitter: [@Rajkuma58621299](https://twitter.com/Rajkuma58621299)
+- Linkedin: [Rajkumar Das](https://www.linkedin.com/in/rajkumar-das-41308961/)
 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/rajkumardas2701/members-only/issues).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
