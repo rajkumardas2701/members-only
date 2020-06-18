@@ -23,8 +23,9 @@ To get a local copy up and running follow these simple example steps.
 
 ### Setup
 
-1. Open your terminal and <code>cd</code> into the project root directory
-2. Join the members only club and post something :smile:
+1. Clone this repo to your computer using <code>git clone</code> and the web url
+2. Open your terminal and <code>cd</code> into the project root directory
+3. Join the members only club and post something :smile:
 
 ### Install
 
